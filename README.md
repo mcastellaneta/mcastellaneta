@@ -9,7 +9,7 @@
   </a>
 </p>
 
-### :man_technologist: &nbsp;whoami
+### <code>~$ whoami</code>
 
 - 💻 I am a Data Science & ML student student
 - 👨‍🎓 I have a bachelor’s degree with honours in Computer Science
@@ -18,7 +18,7 @@
 - 🎹 Avid musician
 
 ---
-### Where can you find me?
+### <code>~$ locate me</code>
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelecastellaneta) 
  [![Proton Mail](https://img.shields.io/badge/-Mail%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mcastellaneta@protonmail.com) 
 
