@@ -11,7 +11,7 @@
 
 ### <code>~$ whoami</code>
 
-- 💻 I am a Data Science & ML student
+- 💻 I am a Master's Graduate in Computer Science, with a curriculum in Data Science & ML
 - 👨‍🎓 I have a bachelor’s degree with honours in Computer Science
 - 💙 With my projects I try to make the world a better place
 - 👥 I'm always open to new projects ideas
